@@ -1,0 +1,11 @@
+cpf_cliente;nm_cliente;tel_cliente
+11111111111;Jessica Luz Pinheiros;35675225
+22222222222;Lucas Medeiros;35672145
+33333333333;Wanya Grey;35677653
+44444444444;Gabriela Pereira;34612587
+55555555555;Samuel Uchiha;32145678
+66666666666;Bryan Santana;11002589
+77777777777;Majorie Esteano;39872445
+88888888888;Jailson Medina;35671475
+23456789101;Lucas Moderno Silva;40028922
+44220043870;Gustavo Oliveira;32145741
